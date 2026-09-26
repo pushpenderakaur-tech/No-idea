@@ -1,7 +1,7 @@
 const messages = [
   `Hiii 👋`,
 
-  `Yaar ye sirf attraction nhi h.`,
+  `Yaar ye attraction to nhi h.`,
 
   `Tum to yhi bol rhi ho — ho jata h, common hai.<br>
    But mujhy nhi lag rha ye normal attraction h.`,
@@ -9,7 +9,8 @@ const messages = [
   `Or ha, jab tum jane ki bolti ho yha se, interview wagera ki baat karti ho, to bura lagta hai…<br>
    or phir mann kharab ho jata hai mera & i know kaam jaruri hai.`,
 
-  `But jab sahi se baat nhi krt main tum bolti ho — rude ho rhe ho..`,
+  `But jab sahi se baat nhi krt main tum bolti ho — rude ho rhe ho 
+  main samjh nhi pa rha kuch yaar..`,
 
   `Yaar last baat…`,
 
