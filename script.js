@@ -7,9 +7,9 @@ const messages = [
    But mujhy nhi lag rha ye normal attraction h.`,
 
   `Or ha, jab tum jane ki bolti ho yha se, interview wagera ki baat karti ho, to bura lagta hai…<br>
-   or phir mann kharab ho jata hai mera.`,
+   or phir mann kharab ho jata hai mera & i know kaam jaruri hai.`,
 
-  `Then tum bolti ho — rude ho rhe ho..`,
+  `But jab sahi se baat nhi krt main tum bolti ho — rude ho rhe ho..`,
 
   `Yaar last baat…`,
 
