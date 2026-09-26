@@ -1,5 +1,5 @@
 const messages = [
-  `Hiii 👋`,
+  `Hiii Himanshi 👋`,
 
   `Yaar ye attraction to nhi h.`,
 
