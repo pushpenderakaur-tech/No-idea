@@ -15,7 +15,7 @@ const messages = [
   `Yaar last baat…`,
 
   `Ye sirf <strong>Attraction nhi h…</strong><br><br>
-   <span class="really">Really.</span>`
+   <span class="really">Really🤞🏻.</span>`
 ];
 
 let currentStep = 0;
